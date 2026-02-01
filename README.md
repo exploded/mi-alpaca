@@ -6,6 +6,8 @@ ASCOM Alpaca server for Xiaomi Mi Smart Switches, allowing control of Xiaomi sma
 
 This project implements an ASCOM Alpaca API server that bridges Xiaomi Mi Smart Switches to ASCOM-compatible astronomy software. It enables control of Xiaomi switches as ASCOM Switch devices.
 
+![Xiaomi WiFi Switch](xiaomi-wifi-switch.jpg)
+
 ## Features
 
 - ASCOM Alpaca API compatibility
